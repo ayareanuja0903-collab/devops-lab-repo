@@ -1,1 +1,2 @@
 # My first content of git testing
+# Addin me second text of file
